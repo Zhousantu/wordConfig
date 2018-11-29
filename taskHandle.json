@@ -1,0 +1,14 @@
+[
+  {
+    "handleId": 1,
+    "description": "跳转闯关开始页面"
+  },
+  {
+    "handleId": 2,
+    "description": "跳转邀请"
+  },
+  {
+    "handleId": 3,
+    "description": "跳转PK"
+  }
+]

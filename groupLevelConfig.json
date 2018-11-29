@@ -4,125 +4,143 @@
     "groupName": "小学",
     "groupTb": "word_primary",
     "levelMax": 200,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 2,
     "groupName": "初中",
     "groupTb": "word_junior",
     "levelMax": 500,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 3,
     "groupName": "高中",
     "groupTb": "word_high",
     "levelMax": 1000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 4,
     "groupName": "四级",
     "groupTb": "word_getfour",
     "levelMax": 2000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 5,
     "groupName": "六级",
     "groupTb": "word_getsix",
     "levelMax": 2000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 6,
     "groupName": "专八",
     "groupTb": "word_proeight",
     "levelMax": 3000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 7,
     "groupName": "考研",
     "groupTb": "word_postgraduate",
     "levelMax": 3000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 0
   },
   {
     "groupId": 8,
     "groupName": "考博",
     "groupTb": "word_doctor",
     "levelMax": 3000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 0
   },
   {
     "groupId": 9,
     "groupName": "雅思",
     "groupTb": "word_ielts",
     "levelMax": 4000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 10,
     "groupName": "托福",
     "groupTb": "word_toefl",
     "levelMax": 4000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 11,
     "groupName": "托业",
     "groupTb": "word_toeic",
     "levelMax": 4000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 0
   },
   {
     "groupId": 12,
     "groupName": "GRE",
     "groupTb": "word_gre",
     "levelMax": 4000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 0
   },
   {
     "groupId": 13,
     "groupName": "金融",
     "groupTb": "word_financial",
     "levelMax": 4000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 14,
     "groupName": "反义词",
     "groupTb": "word_antonym",
     "levelMax": 4000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 15,
     "groupName": "会计",
     "groupTb": "word_accountant",
     "levelMax": 4000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 16,
     "groupName": "法律",
     "groupTb": "word_legal",
     "levelMax": 4000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 1
   },
   {
     "groupId": 17,
     "groupName": "医学",
     "groupTb": "word_medicine",
     "levelMax": 4000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 0
   },
   {
     "groupId": 18,
     "groupName": "经济",
     "groupTb": "word_economic",
     "levelMax": 4000,
-    "groupTotalWords": 1000
+    "groupTotalWords": 1000,
+    "groupStatus": 0
   }
 ]

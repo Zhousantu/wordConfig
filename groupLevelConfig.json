@@ -3,48 +3,48 @@
     "groupId": 1,
     "groupName": "小学",
     "groupTb": "word_primary",
-    "levelMax": 200,
-    "groupTotalWords": 1000,
+    "levelMax": 100,
+    "groupTotalWords": 565,
     "groupStatus": 1
   },
   {
     "groupId": 2,
     "groupName": "初中",
     "groupTb": "word_junior",
-    "levelMax": 500,
-    "groupTotalWords": 1000,
+    "levelMax": 200,
+    "groupTotalWords": 1318,
     "groupStatus": 1
   },
   {
     "groupId": 3,
     "groupName": "高中",
     "groupTb": "word_high",
-    "levelMax": 1000,
-    "groupTotalWords": 1000,
+    "levelMax": 600,
+    "groupTotalWords": 3275,
     "groupStatus": 1
   },
   {
     "groupId": 4,
     "groupName": "四级",
     "groupTb": "word_getfour",
-    "levelMax": 2000,
-    "groupTotalWords": 1000,
+    "levelMax": 600,
+    "groupTotalWords": 3727,
     "groupStatus": 1
   },
   {
     "groupId": 5,
     "groupName": "六级",
     "groupTb": "word_getsix",
-    "levelMax": 2000,
-    "groupTotalWords": 1000,
+    "levelMax": 400,
+    "groupTotalWords": 1927,
     "groupStatus": 1
   },
   {
     "groupId": 6,
     "groupName": "专八",
     "groupTb": "word_proeight",
-    "levelMax": 3000,
-    "groupTotalWords": 1000,
+    "levelMax": 800,
+    "groupTotalWords": 4981,
     "groupStatus": 1
   },
   {
@@ -67,16 +67,16 @@
     "groupId": 9,
     "groupName": "雅思",
     "groupTb": "word_ielts",
-    "levelMax": 4000,
-    "groupTotalWords": 1000,
+    "levelMax": 800,
+    "groupTotalWords": 4883,
     "groupStatus": 1
   },
   {
     "groupId": 10,
     "groupName": "托福",
     "groupTb": "word_toefl",
-    "levelMax": 4000,
-    "groupTotalWords": 1000,
+    "levelMax": 700,
+    "groupTotalWords": 4102,
     "groupStatus": 1
   },
   {
@@ -99,32 +99,32 @@
     "groupId": 13,
     "groupName": "金融",
     "groupTb": "word_financial",
-    "levelMax": 4000,
-    "groupTotalWords": 1000,
+    "levelMax": 120,
+    "groupTotalWords": 741,
     "groupStatus": 1
   },
   {
     "groupId": 14,
     "groupName": "反义词",
     "groupTb": "word_antonym",
-    "levelMax": 4000,
-    "groupTotalWords": 1000,
+    "levelMax": 70,
+    "groupTotalWords": 392,
     "groupStatus": 1
   },
   {
     "groupId": 15,
     "groupName": "会计",
     "groupTb": "word_accountant",
-    "levelMax": 4000,
-    "groupTotalWords": 1000,
+    "levelMax": 900,
+    "groupTotalWords": 5503,
     "groupStatus": 1
   },
   {
     "groupId": 16,
-    "groupName": "法律",
+    "groupName": "航空",
     "groupTb": "word_legal",
-    "levelMax": 4000,
-    "groupTotalWords": 1000,
+    "levelMax": 260,
+    "groupTotalWords": 1512,
     "groupStatus": 1
   },
   {

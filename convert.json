@@ -1,0 +1,38 @@
+[
+  {
+    "convertId": 1,
+    "convertSpend": {
+      "money": 1
+    },
+    "convertGain": {
+      "walnut": 100
+    }
+  },
+  {
+    "convertId": 2,
+    "convertSpend": {
+      "money": 5
+    },
+    "convertGain": {
+      "walnut": 500
+    }
+  },
+  {
+    "convertId": 3,
+    "convertSpend": {
+      "money": 10
+    },
+    "convertGain": {
+      "walnut": 1000
+    }
+  },
+  {
+    "convertId": 4,
+    "convertSpend": {
+      "money": 50
+    },
+    "convertGain": {
+      "walnut": 5000
+    }
+  }
+]

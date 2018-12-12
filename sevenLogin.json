@@ -1,0 +1,58 @@
+[
+    {
+      "rewardId": 1,
+      "rewardList": {
+        "coin": 200,
+        "box": 0,
+        "walnut": 0
+      }
+    },
+    {
+      "rewardId": 2,
+      "rewardList": {
+        "coin": 300,
+        "box": 0,
+        "walnut": 0
+      }
+    },
+    {
+      "rewardId": 3,
+      "rewardList": {
+        "coin": 0,
+        "box": 0,
+        "walnut": 2
+      }
+    },
+    {
+      "rewardId": 4,
+      "rewardList": {
+        "coin": 400,
+        "box": 0,
+        "walnut": 0
+      }
+    },
+    {
+      "rewardId": 5,
+      "rewardList": {
+        "coin": 0,
+        "box": 0,
+        "walnut": 3
+      }
+    },
+    {
+      "rewardId": 6,
+      "rewardList": {
+        "coin": 500,
+        "box": 0,
+        "walnut": 0
+      }
+    },
+    {
+      "rewardId": 7,
+      "rewardList": {
+        "coin": 0,
+        "box": 0,
+        "walnut": 4
+      }
+    }
+  ]

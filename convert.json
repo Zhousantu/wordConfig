@@ -5,7 +5,7 @@
       "money": 1
     },
     "convertGain": {
-      "walnut": 100
+      "walnut": 10
     }
   },
   {
@@ -14,7 +14,7 @@
       "money": 5
     },
     "convertGain": {
-      "walnut": 500
+      "walnut": 50
     }
   },
   {
@@ -23,7 +23,7 @@
       "money": 10
     },
     "convertGain": {
-      "walnut": 1000
+      "walnut": 100
     }
   },
   {
@@ -32,7 +32,7 @@
       "money": 50
     },
     "convertGain": {
-      "walnut": 5000
+      "walnut": 500
     }
   }
 ]

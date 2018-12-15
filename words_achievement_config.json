@@ -1,0 +1,102 @@
+[
+  {
+    "achievementType": 1,
+    "achievementDemand": [
+      {
+        "demandId": 1,
+        "demand": {
+          "words": 10
+        },
+        "reward": {
+          "coin": 100
+        }
+      },
+      {
+        "demandId": 2,
+        "demand": {
+          "words": 20
+        },
+        "reward": {
+          "coin": 100
+        }
+      },
+      {
+        "demandId": 3,
+        "demand": {
+          "words": 40
+        },
+        "reward": {
+          "coin": 100
+        }
+      },
+      {
+        "demandId": 4,
+        "demand": {
+          "words": 80
+        },
+        "reward": {
+          "coin": 100
+        }
+      },
+      {
+        "demandId": 5,
+        "demand": {
+          "words": 160
+        },
+        "reward": {
+          "coin": 100
+        }
+      }
+    ]
+  },
+  {
+    "achievementType": 2,
+    "achievementDemand": [
+      {
+        "demandId": 1,
+        "demand": {
+          "stars": 10
+        },
+        "reward": {
+          "coin": 100
+        }
+      },
+      {
+        "demandId": 2,
+        "demand": {
+          "stars": 20
+        },
+        "reward": {
+          "coin": 100
+        }
+      },
+      {
+        "demandId": 3,
+        "demand": {
+          "stars": 30
+        },
+        "reward": {
+          "coin": 100
+        }
+      },
+      {
+        "demandId": 4,
+        "demand": {
+          "stars": 40
+        },
+        "reward": {
+          "coin": 100
+        }
+      },
+      {
+        "demandId": 5,
+        "demand": {
+          "stars": 50
+        },
+        "reward": {
+          "coin": 100
+        }
+      }
+    ]
+  }
+]

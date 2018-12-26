@@ -51,9 +51,9 @@
     "groupId": 7,
     "groupName": "考研",
     "groupTb": "word_postgraduate",
-    "levelMax": 3000,
-    "groupTotalWords": 1000,
-    "groupStatus": 0
+    "levelMax": 600,
+    "groupTotalWords": 3841,
+    "groupStatus": 1
   },
   {
     "groupId": 8,
